@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Compile workout plans, sets, and active routines.
+  name: workout-routine-planner version: 1.0 type: Repository author: VarshuAi description: >   Compile workout plans, sets, and active routines. primary_tech: CSS
 primary_tech: CSS
 ```
 
